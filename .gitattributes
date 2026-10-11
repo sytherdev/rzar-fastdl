@@ -1,0 +1,2 @@
+mods/rZaR_v2/*.ff filter=lfs diff=lfs merge=lfs -text
+mods/rZaR_v2/*.iwd filter=lfs diff=lfs merge=lfs -text
